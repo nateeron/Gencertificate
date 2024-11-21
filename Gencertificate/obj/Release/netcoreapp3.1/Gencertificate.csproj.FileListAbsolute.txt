@@ -1,0 +1,16 @@
+G:\M_save\Gencertificate\Gencertificate\bin\Release\netcoreapp3.1\Gencertificate.exe
+G:\M_save\Gencertificate\Gencertificate\bin\Release\netcoreapp3.1\Gencertificate.deps.json
+G:\M_save\Gencertificate\Gencertificate\bin\Release\netcoreapp3.1\Gencertificate.runtimeconfig.json
+G:\M_save\Gencertificate\Gencertificate\bin\Release\netcoreapp3.1\Gencertificate.runtimeconfig.dev.json
+G:\M_save\Gencertificate\Gencertificate\bin\Release\netcoreapp3.1\Gencertificate.dll
+G:\M_save\Gencertificate\Gencertificate\bin\Release\netcoreapp3.1\Gencertificate.pdb
+G:\M_save\Gencertificate\Gencertificate\obj\Release\netcoreapp3.1\Gencertificate.csproj.AssemblyReference.cache
+G:\M_save\Gencertificate\Gencertificate\obj\Release\netcoreapp3.1\Gencertificate.Form1.resources
+G:\M_save\Gencertificate\Gencertificate\obj\Release\netcoreapp3.1\Gencertificate.csproj.GenerateResource.cache
+G:\M_save\Gencertificate\Gencertificate\obj\Release\netcoreapp3.1\Gencertificate.GeneratedMSBuildEditorConfig.editorconfig
+G:\M_save\Gencertificate\Gencertificate\obj\Release\netcoreapp3.1\Gencertificate.AssemblyInfoInputs.cache
+G:\M_save\Gencertificate\Gencertificate\obj\Release\netcoreapp3.1\Gencertificate.AssemblyInfo.cs
+G:\M_save\Gencertificate\Gencertificate\obj\Release\netcoreapp3.1\Gencertificate.csproj.CoreCompileInputs.cache
+G:\M_save\Gencertificate\Gencertificate\obj\Release\netcoreapp3.1\Gencertificate.dll
+G:\M_save\Gencertificate\Gencertificate\obj\Release\netcoreapp3.1\Gencertificate.pdb
+G:\M_save\Gencertificate\Gencertificate\obj\Release\netcoreapp3.1\Gencertificate.genruntimeconfig.cache
